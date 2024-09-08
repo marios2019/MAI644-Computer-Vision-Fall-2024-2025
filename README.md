@@ -75,7 +75,7 @@ Please note that it's important to meet assignment deadlines to maximize your sc
 ---
 
 **Important:** Please respect the [academic honesty statement](Academic_Honesty_Statement.md) and adhere to the 
-university's [code of conduct](https://www.ucy.ac.cy/wp-content/uploads/2021/11/Code_of_Conduct_for_Teaching.pdf) 
+university's [code of conduct](https://www.ucy.ac.cy/wp-content/uploads/2021/11/Code_of_Conduct_for_Teaching.pdf#page=3.27) 
 throughout the course.
 
 For any additional questions or concerns, you can contact the lab instructor at [mloizo11@ucy.ac.cy](mailto:mloizo11@ucy.ac.cy).
